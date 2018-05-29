@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Twitch Integration Prototype", "Assembly-CSharp.csproj", "{1B7C8532-95F1-FE8A-7BC2-A484EEB987D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Twitch Integration Prototype", "Assembly-CSharp-Editor.csproj", "{22B39BDF-C291-55A8-7F65-317D7100A906}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B7C8532-95F1-FE8A-7BC2-A484EEB987D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B7C8532-95F1-FE8A-7BC2-A484EEB987D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B7C8532-95F1-FE8A-7BC2-A484EEB987D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B7C8532-95F1-FE8A-7BC2-A484EEB987D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22B39BDF-C291-55A8-7F65-317D7100A906}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22B39BDF-C291-55A8-7F65-317D7100A906}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22B39BDF-C291-55A8-7F65-317D7100A906}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22B39BDF-C291-55A8-7F65-317D7100A906}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
